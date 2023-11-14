@@ -1,0 +1,2379 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<serie>
+  <cabSerie>
+    <aplicacion>aplicacion</aplicacion>
+    <pri>0</pri>
+    <pub>1</pub>
+    <observaciones>
+    </observaciones>
+    <descripcionFrecuencia>Mensual</descripcionFrecuencia>
+    <descripcionCategoria>4</descripcionCategoria>
+    <cCategoria>U64</cCategoria>
+    <nvalores>261</nvalores>
+    <finfrec>
+      <anno>2021</anno>
+      <periodo>9</periodo>
+    </finfrec>
+    <iniciofrec>
+      <anno>2000</anno>
+      <periodo>1</periodo>
+    </iniciofrec>
+    <cFrecuencia>4</cFrecuencia>
+    <decimales>0</decimales>
+    <nota>
+    </nota>
+    <fuente> FRONTUR (IET/INE)</fuente>
+    <unidades> DATOS ABSOLUTOS.</unidades>
+    <descripcion>FRONTUR ENTRADA DE TURISTAS</descripcion>
+    <cSerie>U64A2</cSerie>
+  </cabSerie>
+  <valor>
+    <anno>2000</anno>
+    <mes />
+    <dia />
+    <periodo>1</periodo>
+    <S>1981948.565000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2000</anno>
+    <mes />
+    <dia />
+    <periodo>2</periodo>
+    <S>2260826.050000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2000</anno>
+    <mes />
+    <dia />
+    <periodo>3</periodo>
+    <S>3012280.749000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2000</anno>
+    <mes />
+    <dia />
+    <periodo>4</periodo>
+    <S>4206766.531000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2000</anno>
+    <mes />
+    <dia />
+    <periodo>5</periodo>
+    <S>4095337.500000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2000</anno>
+    <mes />
+    <dia />
+    <periodo>6</periodo>
+    <S>4637337.284000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2000</anno>
+    <mes />
+    <dia />
+    <periodo>7</periodo>
+    <S>6351155.961000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2000</anno>
+    <mes />
+    <dia />
+    <periodo>8</periodo>
+    <S>5762419.740000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2000</anno>
+    <mes />
+    <dia />
+    <periodo>9</periodo>
+    <S>5036948.010000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2000</anno>
+    <mes />
+    <dia />
+    <periodo>10</periodo>
+    <S>4142324.513000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2000</anno>
+    <mes />
+    <dia />
+    <periodo>11</periodo>
+    <S>2494390.824000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2000</anno>
+    <mes />
+    <dia />
+    <periodo>12</periodo>
+    <S>2421189.857000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2001</anno>
+    <mes />
+    <dia />
+    <periodo>1</periodo>
+    <S>2201837.972000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2001</anno>
+    <mes />
+    <dia />
+    <periodo>2</periodo>
+    <S>2411357.378000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2001</anno>
+    <mes />
+    <dia />
+    <periodo>3</periodo>
+    <S>3104861.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2001</anno>
+    <mes />
+    <dia />
+    <periodo>4</periodo>
+    <S>4230507.670000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2001</anno>
+    <mes />
+    <dia />
+    <periodo>5</periodo>
+    <S>4375083.444000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2001</anno>
+    <mes />
+    <dia />
+    <periodo>6</periodo>
+    <S>4948189.844000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2001</anno>
+    <mes />
+    <dia />
+    <periodo>7</periodo>
+    <S>6635181.332000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2001</anno>
+    <mes />
+    <dia />
+    <periodo>8</periodo>
+    <S>6491772.837000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2001</anno>
+    <mes />
+    <dia />
+    <periodo>9</periodo>
+    <S>5139722.723000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2001</anno>
+    <mes />
+    <dia />
+    <periodo>10</periodo>
+    <S>4023912.710000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2001</anno>
+    <mes />
+    <dia />
+    <periodo>11</periodo>
+    <S>2465389.733000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2001</anno>
+    <mes />
+    <dia />
+    <periodo>12</periodo>
+    <S>2537527.257000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2002</anno>
+    <mes />
+    <dia />
+    <periodo>1</periodo>
+    <S>2178690.572000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2002</anno>
+    <mes />
+    <dia />
+    <periodo>2</periodo>
+    <S>2599398.043000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2002</anno>
+    <mes />
+    <dia />
+    <periodo>3</periodo>
+    <S>3671073.787000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2002</anno>
+    <mes />
+    <dia />
+    <periodo>4</periodo>
+    <S>3655816.718000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2002</anno>
+    <mes />
+    <dia />
+    <periodo>5</periodo>
+    <S>4482918.829000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2002</anno>
+    <mes />
+    <dia />
+    <periodo>6</periodo>
+    <S>5021742.920000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2002</anno>
+    <mes />
+    <dia />
+    <periodo>7</periodo>
+    <S>6694013.944000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2002</anno>
+    <mes />
+    <dia />
+    <periodo>8</periodo>
+    <S>7344749.817000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2002</anno>
+    <mes />
+    <dia />
+    <periodo>9</periodo>
+    <S>5058633.643000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2002</anno>
+    <mes />
+    <dia />
+    <periodo>10</periodo>
+    <S>4328166.742000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2002</anno>
+    <mes />
+    <dia />
+    <periodo>11</periodo>
+    <S>2673690.154000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2002</anno>
+    <mes />
+    <dia />
+    <periodo>12</periodo>
+    <S>2621728.009000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2003</anno>
+    <mes />
+    <dia />
+    <periodo>1</periodo>
+    <S>2393245.882000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2003</anno>
+    <mes />
+    <dia />
+    <periodo>2</periodo>
+    <S>2679125.051000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2003</anno>
+    <mes />
+    <dia />
+    <periodo>3</periodo>
+    <S>3302468.096000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2003</anno>
+    <mes />
+    <dia />
+    <periodo>4</periodo>
+    <S>4207964.348000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2003</anno>
+    <mes />
+    <dia />
+    <periodo>5</periodo>
+    <S>4716094.223000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2003</anno>
+    <mes />
+    <dia />
+    <periodo>6</periodo>
+    <S>5056195.981000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2003</anno>
+    <mes />
+    <dia />
+    <periodo>7</periodo>
+    <S>6847248.883000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2003</anno>
+    <mes />
+    <dia />
+    <periodo>8</periodo>
+    <S>6917438.497000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2003</anno>
+    <mes />
+    <dia />
+    <periodo>9</periodo>
+    <S>4994251.995000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2003</anno>
+    <mes />
+    <dia />
+    <periodo>10</periodo>
+    <S>4351946.677000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2003</anno>
+    <mes />
+    <dia />
+    <periodo>11</periodo>
+    <S>2658573.641000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2003</anno>
+    <mes />
+    <dia />
+    <periodo>12</periodo>
+    <S>2729261.761000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2004</anno>
+    <mes />
+    <dia />
+    <periodo>1</periodo>
+    <S>2554887.023000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2004</anno>
+    <mes />
+    <dia />
+    <periodo>2</periodo>
+    <S>2948888.338000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2004</anno>
+    <mes />
+    <dia />
+    <periodo>3</periodo>
+    <S>3279133.019000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2004</anno>
+    <mes />
+    <dia />
+    <periodo>4</periodo>
+    <S>4182442.484000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2004</anno>
+    <mes />
+    <dia />
+    <periodo>5</periodo>
+    <S>4903627.237000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2004</anno>
+    <mes />
+    <dia />
+    <periodo>6</periodo>
+    <S>4855561.757000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2004</anno>
+    <mes />
+    <dia />
+    <periodo>7</periodo>
+    <S>6915294.376000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2004</anno>
+    <mes />
+    <dia />
+    <periodo>8</periodo>
+    <S>6844848.555000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2004</anno>
+    <mes />
+    <dia />
+    <periodo>9</periodo>
+    <S>5301202.723000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2004</anno>
+    <mes />
+    <dia />
+    <periodo>10</periodo>
+    <S>4710413.565000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2004</anno>
+    <mes />
+    <dia />
+    <periodo>11</periodo>
+    <S>2871639.007000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2004</anno>
+    <mes />
+    <dia />
+    <periodo>12</periodo>
+    <S>3061893.994000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2005</anno>
+    <mes />
+    <dia />
+    <periodo>1</periodo>
+    <S>2712863.197000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2005</anno>
+    <mes />
+    <dia />
+    <periodo>2</periodo>
+    <S>2955390.721000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2005</anno>
+    <mes />
+    <dia />
+    <periodo>3</periodo>
+    <S>3835167.534000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2005</anno>
+    <mes />
+    <dia />
+    <periodo>4</periodo>
+    <S>4155338.313000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2005</anno>
+    <mes />
+    <dia />
+    <periodo>5</periodo>
+    <S>5170770.248000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2005</anno>
+    <mes />
+    <dia />
+    <periodo>6</periodo>
+    <S>5262955.368000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2005</anno>
+    <mes />
+    <dia />
+    <periodo>7</periodo>
+    <S>7495662.536000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2005</anno>
+    <mes />
+    <dia />
+    <periodo>8</periodo>
+    <S>7318761.158000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2005</anno>
+    <mes />
+    <dia />
+    <periodo>9</periodo>
+    <S>5788785.805000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2005</anno>
+    <mes />
+    <dia />
+    <periodo>10</periodo>
+    <S>4918458.243000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2005</anno>
+    <mes />
+    <dia />
+    <periodo>11</periodo>
+    <S>3119566.984000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2005</anno>
+    <mes />
+    <dia />
+    <periodo>12</periodo>
+    <S>3180057.660000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2006</anno>
+    <mes />
+    <dia />
+    <periodo>1</periodo>
+    <S>2729475.010000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2006</anno>
+    <mes />
+    <dia />
+    <periodo>2</periodo>
+    <S>3032159.275000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2006</anno>
+    <mes />
+    <dia />
+    <periodo>3</periodo>
+    <S>3830261.210000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2006</anno>
+    <mes />
+    <dia />
+    <periodo>4</periodo>
+    <S>4900225.611000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2006</anno>
+    <mes />
+    <dia />
+    <periodo>5</periodo>
+    <S>5527699.198000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2006</anno>
+    <mes />
+    <dia />
+    <periodo>6</periodo>
+    <S>5527126.268000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2006</anno>
+    <mes />
+    <dia />
+    <periodo>7</periodo>
+    <S>7563718.954000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2006</anno>
+    <mes />
+    <dia />
+    <periodo>8</periodo>
+    <S>7428401.646000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2006</anno>
+    <mes />
+    <dia />
+    <periodo>9</periodo>
+    <S>6006950.488000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2006</anno>
+    <mes />
+    <dia />
+    <periodo>10</periodo>
+    <S>5067722.357000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2006</anno>
+    <mes />
+    <dia />
+    <periodo>11</periodo>
+    <S>3162696.754000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2006</anno>
+    <mes />
+    <dia />
+    <periodo>12</periodo>
+    <S>3228025.029000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2007</anno>
+    <mes />
+    <dia />
+    <periodo>1</periodo>
+    <S>2821632.232000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2007</anno>
+    <mes />
+    <dia />
+    <periodo>2</periodo>
+    <S>3160312.050000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2007</anno>
+    <mes />
+    <dia />
+    <periodo>3</periodo>
+    <S>4068343.858000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2007</anno>
+    <mes />
+    <dia />
+    <periodo>4</periodo>
+    <S>4686833.571000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2007</anno>
+    <mes />
+    <dia />
+    <periodo>5</periodo>
+    <S>5395227.177000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2007</anno>
+    <mes />
+    <dia />
+    <periodo>6</periodo>
+    <S>5745180.825000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2007</anno>
+    <mes />
+    <dia />
+    <periodo>7</periodo>
+    <S>7633521.364000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2007</anno>
+    <mes />
+    <dia />
+    <periodo>8</periodo>
+    <S>7561898.444000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2007</anno>
+    <mes />
+    <dia />
+    <periodo>9</periodo>
+    <S>6035340.948000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2007</anno>
+    <mes />
+    <dia />
+    <periodo>10</periodo>
+    <S>5023912.719000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2007</anno>
+    <mes />
+    <dia />
+    <periodo>11</periodo>
+    <S>3304306.648000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2007</anno>
+    <mes />
+    <dia />
+    <periodo>12</periodo>
+    <S>3228993.811000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2008</anno>
+    <mes />
+    <dia />
+    <periodo>1</periodo>
+    <S>2879846.340000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2008</anno>
+    <mes />
+    <dia />
+    <periodo>2</periodo>
+    <S>3360500.351000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2008</anno>
+    <mes />
+    <dia />
+    <periodo>3</periodo>
+    <S>4333369.240000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2008</anno>
+    <mes />
+    <dia />
+    <periodo>4</periodo>
+    <S>4583334.695000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2008</anno>
+    <mes />
+    <dia />
+    <periodo>5</periodo>
+    <S>5649383.625000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2008</anno>
+    <mes />
+    <dia />
+    <periodo>6</periodo>
+    <S>5779578.258000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2008</anno>
+    <mes />
+    <dia />
+    <periodo>7</periodo>
+    <S>7066558.190000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2008</anno>
+    <mes />
+    <dia />
+    <periodo>8</periodo>
+    <S>7336704.827000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2008</anno>
+    <mes />
+    <dia />
+    <periodo>9</periodo>
+    <S>5682500.569000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2008</anno>
+    <mes />
+    <dia />
+    <periodo>10</periodo>
+    <S>4777730.717000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2008</anno>
+    <mes />
+    <dia />
+    <periodo>11</periodo>
+    <S>2927416.862000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2008</anno>
+    <mes />
+    <dia />
+    <periodo>12</periodo>
+    <S>2815090.314000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2009</anno>
+    <mes />
+    <dia />
+    <periodo>1</periodo>
+    <S>2517979.788000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2009</anno>
+    <mes />
+    <dia />
+    <periodo>2</periodo>
+    <S>2833449.785000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2009</anno>
+    <mes />
+    <dia />
+    <periodo>3</periodo>
+    <S>3434131.961000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2009</anno>
+    <mes />
+    <dia />
+    <periodo>4</periodo>
+    <S>4511701.058000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2009</anno>
+    <mes />
+    <dia />
+    <periodo>5</periodo>
+    <S>4988168.749000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2009</anno>
+    <mes />
+    <dia />
+    <periodo>6</periodo>
+    <S>5203390.174000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2009</anno>
+    <mes />
+    <dia />
+    <periodo>7</periodo>
+    <S>6678046.643000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2009</anno>
+    <mes />
+    <dia />
+    <periodo>8</periodo>
+    <S>6723276.743000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2009</anno>
+    <mes />
+    <dia />
+    <periodo>9</periodo>
+    <S>5133169.401000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2009</anno>
+    <mes />
+    <dia />
+    <periodo>10</periodo>
+    <S>4607406.044000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2009</anno>
+    <mes />
+    <dia />
+    <periodo>11</periodo>
+    <S>2837366.948000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2009</anno>
+    <mes />
+    <dia />
+    <periodo>12</periodo>
+    <S>2709553.162000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2010</anno>
+    <mes />
+    <dia />
+    <periodo>1</periodo>
+    <S>2542841.041000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2010</anno>
+    <mes />
+    <dia />
+    <periodo>2</periodo>
+    <S>2723363.405000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2010</anno>
+    <mes />
+    <dia />
+    <periodo>3</periodo>
+    <S>3543400.349000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2010</anno>
+    <mes />
+    <dia />
+    <periodo>4</periodo>
+    <S>3910779.123000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2010</anno>
+    <mes />
+    <dia />
+    <periodo>5</periodo>
+    <S>5045676.356000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2010</anno>
+    <mes />
+    <dia />
+    <periodo>6</periodo>
+    <S>5289108.486000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2010</anno>
+    <mes />
+    <dia />
+    <periodo>7</periodo>
+    <S>6981416.922000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2010</anno>
+    <mes />
+    <dia />
+    <periodo>8</periodo>
+    <S>6985291.077000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2010</anno>
+    <mes />
+    <dia />
+    <periodo>9</periodo>
+    <S>5351469.568000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2010</anno>
+    <mes />
+    <dia />
+    <periodo>10</periodo>
+    <S>4806009.357000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2010</anno>
+    <mes />
+    <dia />
+    <periodo>11</periodo>
+    <S>2911186.672000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2010</anno>
+    <mes />
+    <dia />
+    <periodo>12</periodo>
+    <S>2586430.423000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2011</anno>
+    <mes />
+    <dia />
+    <periodo>1</periodo>
+    <S>2655822.526000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2011</anno>
+    <mes />
+    <dia />
+    <periodo>2</periodo>
+    <S>2784270.876000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2011</anno>
+    <mes />
+    <dia />
+    <periodo>3</periodo>
+    <S>3510048.578000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2011</anno>
+    <mes />
+    <dia />
+    <periodo>4</periodo>
+    <S>4612689.131000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2011</anno>
+    <mes />
+    <dia />
+    <periodo>5</periodo>
+    <S>5134990.444000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2011</anno>
+    <mes />
+    <dia />
+    <periodo>6</periodo>
+    <S>5734891.031000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2011</anno>
+    <mes />
+    <dia />
+    <periodo>7</periodo>
+    <S>7385628.457000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2011</anno>
+    <mes />
+    <dia />
+    <periodo>8</periodo>
+    <S>7489514.807000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2011</anno>
+    <mes />
+    <dia />
+    <periodo>9</periodo>
+    <S>5934028.653000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2011</anno>
+    <mes />
+    <dia />
+    <periodo>10</periodo>
+    <S>5257085.836000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2011</anno>
+    <mes />
+    <dia />
+    <periodo>11</periodo>
+    <S>3004607.184000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2011</anno>
+    <mes />
+    <dia />
+    <periodo>12</periodo>
+    <S>2673306.278000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2012</anno>
+    <mes />
+    <dia />
+    <periodo>1</periodo>
+    <S>2811020.736000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2012</anno>
+    <mes />
+    <dia />
+    <periodo>2</periodo>
+    <S>2797619.628000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2012</anno>
+    <mes />
+    <dia />
+    <periodo>3</periodo>
+    <S>3592387.324000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2012</anno>
+    <mes />
+    <dia />
+    <periodo>4</periodo>
+    <S>4495693.213000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2012</anno>
+    <mes />
+    <dia />
+    <periodo>5</periodo>
+    <S>5385212.320000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2012</anno>
+    <mes />
+    <dia />
+    <periodo>6</periodo>
+    <S>5996189.769000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2012</anno>
+    <mes />
+    <dia />
+    <periodo>7</periodo>
+    <S>7654573.400000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2012</anno>
+    <mes />
+    <dia />
+    <periodo>8</periodo>
+    <S>7749331.900000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2012</anno>
+    <mes />
+    <dia />
+    <periodo>9</periodo>
+    <S>6202105.700000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2012</anno>
+    <mes />
+    <dia />
+    <periodo>10</periodo>
+    <S>5123303.400000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2012</anno>
+    <mes />
+    <dia />
+    <periodo>11</periodo>
+    <S>3020767.062000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2012</anno>
+    <mes />
+    <dia />
+    <periodo>12</periodo>
+    <S>2636291.500000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2013</anno>
+    <mes />
+    <dia />
+    <periodo>1</periodo>
+    <S>2728272.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2013</anno>
+    <mes />
+    <dia />
+    <periodo>2</periodo>
+    <S>2756023.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2013</anno>
+    <mes />
+    <dia />
+    <periodo>3</periodo>
+    <S>3738846.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2013</anno>
+    <mes />
+    <dia />
+    <periodo>4</periodo>
+    <S>4690772.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2013</anno>
+    <mes />
+    <dia />
+    <periodo>5</periodo>
+    <S>5823063.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2013</anno>
+    <mes />
+    <dia />
+    <periodo>6</periodo>
+    <S>6308842.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2013</anno>
+    <mes />
+    <dia />
+    <periodo>7</periodo>
+    <S>7727186.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2013</anno>
+    <mes />
+    <dia />
+    <periodo>8</periodo>
+    <S>8481924.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2013</anno>
+    <mes />
+    <dia />
+    <periodo>9</periodo>
+    <S>6550855.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2013</anno>
+    <mes />
+    <dia />
+    <periodo>10</periodo>
+    <S>5481295.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2013</anno>
+    <mes />
+    <dia />
+    <periodo>11</periodo>
+    <S>3305272.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2013</anno>
+    <mes />
+    <dia />
+    <periodo>12</periodo>
+    <S>3085997.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2014</anno>
+    <mes />
+    <dia />
+    <periodo>1</periodo>
+    <S>3064668.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2014</anno>
+    <mes />
+    <dia />
+    <periodo>2</periodo>
+    <S>3064422.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2014</anno>
+    <mes />
+    <dia />
+    <periodo>3</periodo>
+    <S>3760531.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2014</anno>
+    <mes />
+    <dia />
+    <periodo>4</periodo>
+    <S>5311830.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2014</anno>
+    <mes />
+    <dia />
+    <periodo>5</periodo>
+    <S>6149737.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2014</anno>
+    <mes />
+    <dia />
+    <periodo>6</periodo>
+    <S>6590848.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2014</anno>
+    <mes />
+    <dia />
+    <periodo>7</periodo>
+    <S>8149091.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2014</anno>
+    <mes />
+    <dia />
+    <periodo>8</periodo>
+    <S>9240208.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2014</anno>
+    <mes />
+    <dia />
+    <periodo>9</periodo>
+    <S>7066407.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2014</anno>
+    <mes />
+    <dia />
+    <periodo>10</periodo>
+    <S>5907192.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2014</anno>
+    <mes />
+    <dia />
+    <periodo>11</periodo>
+    <S>3396167.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2014</anno>
+    <mes />
+    <dia />
+    <periodo>12</periodo>
+    <S>3255109.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2015</anno>
+    <mes />
+    <dia />
+    <periodo>1</periodo>
+    <S>3175916.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2015</anno>
+    <mes />
+    <dia />
+    <periodo>2</periodo>
+    <S>3228369.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2015</anno>
+    <mes />
+    <dia />
+    <periodo>3</periodo>
+    <S>4007974.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2015</anno>
+    <mes />
+    <dia />
+    <periodo>4</periodo>
+    <S>5454187.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2015</anno>
+    <mes />
+    <dia />
+    <periodo>5</periodo>
+    <S>6572839.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2015</anno>
+    <mes />
+    <dia />
+    <periodo>6</periodo>
+    <S>6690369.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2015</anno>
+    <mes />
+    <dia />
+    <periodo>7</periodo>
+    <S>8678782.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2015</anno>
+    <mes />
+    <dia />
+    <periodo>8</periodo>
+    <S>9429632.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2015</anno>
+    <mes />
+    <dia />
+    <periodo>9</periodo>
+    <S>7243067.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2015</anno>
+    <mes />
+    <dia />
+    <periodo>10</periodo>
+    <S>6432119.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2015</anno>
+    <mes />
+    <dia />
+    <periodo>11</periodo>
+    <S>3754706.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2015</anno>
+    <mes />
+    <dia />
+    <periodo>12</periodo>
+    <S>3513026.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2016</anno>
+    <mes />
+    <dia />
+    <periodo>1</periodo>
+    <S>3526624.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2016</anno>
+    <mes />
+    <dia />
+    <periodo>2</periodo>
+    <S>3678786.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2016</anno>
+    <mes />
+    <dia />
+    <periodo>3</periodo>
+    <S>4627065.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2016</anno>
+    <mes />
+    <dia />
+    <periodo>4</periodo>
+    <S>6086458.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2016</anno>
+    <mes />
+    <dia />
+    <periodo>5</periodo>
+    <S>7110937.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2016</anno>
+    <mes />
+    <dia />
+    <periodo>6</periodo>
+    <S>7552826.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2016</anno>
+    <mes />
+    <dia />
+    <periodo>7</periodo>
+    <S>9545564.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2016</anno>
+    <mes />
+    <dia />
+    <periodo>8</periodo>
+    <S>10027722.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2016</anno>
+    <mes />
+    <dia />
+    <periodo>9</periodo>
+    <S>7932508.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2016</anno>
+    <mes />
+    <dia />
+    <periodo>10</periodo>
+    <S>7137880.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2016</anno>
+    <mes />
+    <dia />
+    <periodo>11</periodo>
+    <S>4098316.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2016</anno>
+    <mes />
+    <dia />
+    <periodo>12</periodo>
+    <S>3990511.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2017</anno>
+    <mes />
+    <dia />
+    <periodo>1</periodo>
+    <S>3905841.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2017</anno>
+    <mes />
+    <dia />
+    <periodo>2</periodo>
+    <S>4119187.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2017</anno>
+    <mes />
+    <dia />
+    <periodo>3</periodo>
+    <S>4914065.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2017</anno>
+    <mes />
+    <dia />
+    <periodo>4</periodo>
+    <S>7081335.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2017</anno>
+    <mes />
+    <dia />
+    <periodo>5</periodo>
+    <S>8002819.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2017</anno>
+    <mes />
+    <dia />
+    <periodo>6</periodo>
+    <S>8432041.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2017</anno>
+    <mes />
+    <dia />
+    <periodo>7</periodo>
+    <S>10493503.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2017</anno>
+    <mes />
+    <dia />
+    <periodo>8</periodo>
+    <S>10397222.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2017</anno>
+    <mes />
+    <dia />
+    <periodo>9</periodo>
+    <S>8877269.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2017</anno>
+    <mes />
+    <dia />
+    <periodo>10</periodo>
+    <S>7269657.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2017</anno>
+    <mes />
+    <dia />
+    <periodo>11</periodo>
+    <S>4392364.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2017</anno>
+    <mes />
+    <dia />
+    <periodo>12</periodo>
+    <S>3982440.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2018</anno>
+    <mes />
+    <dia />
+    <periodo>1</periodo>
+    <S>4106529.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2018</anno>
+    <mes />
+    <dia />
+    <periodo>2</periodo>
+    <S>4218107.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2018</anno>
+    <mes />
+    <dia />
+    <periodo>3</periodo>
+    <S>5393391.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2018</anno>
+    <mes />
+    <dia />
+    <periodo>4</periodo>
+    <S>6780561.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2018</anno>
+    <mes />
+    <dia />
+    <periodo>5</periodo>
+    <S>8085771.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2018</anno>
+    <mes />
+    <dia />
+    <periodo>6</periodo>
+    <S>8554172.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2018</anno>
+    <mes />
+    <dia />
+    <periodo>7</periodo>
+    <S>10020572.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2018</anno>
+    <mes />
+    <dia />
+    <periodo>8</periodo>
+    <S>10175348.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2018</anno>
+    <mes />
+    <dia />
+    <periodo>9</periodo>
+    <S>8932692.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2018</anno>
+    <mes />
+    <dia />
+    <periodo>10</periodo>
+    <S>7649712.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2018</anno>
+    <mes />
+    <dia />
+    <periodo>11</periodo>
+    <S>4537058.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2018</anno>
+    <mes />
+    <dia />
+    <periodo>12</periodo>
+    <S>4354821.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2019</anno>
+    <mes />
+    <dia />
+    <periodo>1</periodo>
+    <S>4195538.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2019</anno>
+    <mes />
+    <dia />
+    <periodo>2</periodo>
+    <S>4380473.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2019</anno>
+    <mes />
+    <dia />
+    <periodo>3</periodo>
+    <S>5649963.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2019</anno>
+    <mes />
+    <dia />
+    <periodo>4</periodo>
+    <S>7146033.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2019</anno>
+    <mes />
+    <dia />
+    <periodo>5</periodo>
+    <S>7919204.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2019</anno>
+    <mes />
+    <dia />
+    <periodo>6</periodo>
+    <S>8842944.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2019</anno>
+    <mes />
+    <dia />
+    <periodo>7</periodo>
+    <S>9874916.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2019</anno>
+    <mes />
+    <dia />
+    <periodo>8</periodo>
+    <S>10120140.960000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2019</anno>
+    <mes />
+    <dia />
+    <periodo>9</periodo>
+    <S>8842142.857000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2019</anno>
+    <mes />
+    <dia />
+    <periodo>10</periodo>
+    <S>7589390.335000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2019</anno>
+    <mes />
+    <dia />
+    <periodo>11</periodo>
+    <S>4656615.698000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2019</anno>
+    <mes />
+    <dia />
+    <periodo>12</periodo>
+    <S>4303640.584000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2020</anno>
+    <mes />
+    <dia />
+    <periodo>1</periodo>
+    <S>4132844.910000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2020</anno>
+    <mes />
+    <dia />
+    <periodo>2</periodo>
+    <S>4428520.249000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2020</anno>
+    <mes />
+    <dia />
+    <periodo>3</periodo>
+    <S>1997098.615000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2020</anno>
+    <mes />
+    <dia />
+    <periodo>4</periodo>
+    <S>1.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2020</anno>
+    <mes />
+    <dia />
+    <periodo>5</periodo>
+    <S>1.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2020</anno>
+    <mes />
+    <dia />
+    <periodo>6</periodo>
+    <S>204271.300000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2020</anno>
+    <mes />
+    <dia />
+    <periodo>7</periodo>
+    <S>2464747.400000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2020</anno>
+    <mes />
+    <dia />
+    <periodo>8</periodo>
+    <S>2441003.800000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2020</anno>
+    <mes />
+    <dia />
+    <periodo>9</periodo>
+    <S>1138876.050000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2020</anno>
+    <mes />
+    <dia />
+    <periodo>10</periodo>
+    <S>1019408.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2020</anno>
+    <mes />
+    <dia />
+    <periodo>11</periodo>
+    <S>456956.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2020</anno>
+    <mes />
+    <dia />
+    <periodo>12</periodo>
+    <S>648669.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2021</anno>
+    <mes />
+    <dia />
+    <periodo>1</periodo>
+    <S>434362.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2021</anno>
+    <mes />
+    <dia />
+    <periodo>2</periodo>
+    <S>284311.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2021</anno>
+    <mes />
+    <dia />
+    <periodo>3</periodo>
+    <S>490088.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2021</anno>
+    <mes />
+    <dia />
+    <periodo>4</periodo>
+    <S>630647.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2021</anno>
+    <mes />
+    <dia />
+    <periodo>5</periodo>
+    <S>1363624.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2021</anno>
+    <mes />
+    <dia />
+    <periodo>6</periodo>
+    <S>2215710.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2021</anno>
+    <mes />
+    <dia />
+    <periodo>7</periodo>
+    <S>4395384.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2021</anno>
+    <mes />
+    <dia />
+    <periodo>8</periodo>
+    <S>5194212.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+  <valor>
+    <anno>2021</anno>
+    <mes />
+    <dia />
+    <periodo>9</periodo>
+    <S>4691486.000000000000000</S>
+    <observaciones>
+    </observaciones>
+  </valor>
+</serie>
